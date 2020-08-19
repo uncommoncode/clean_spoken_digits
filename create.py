@@ -310,6 +310,6 @@ def create_dataset_npzs():
 
 
 if __name__ == "__main__":
-    #create_dataset_csv()
-    #create_dataset_wavs()
+    create_dataset_csv()
+    create_dataset_wavs()
     create_dataset_npzs()
